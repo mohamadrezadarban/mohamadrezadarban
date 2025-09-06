@@ -91,18 +91,17 @@ I'm a passionate **cybersecurity researcher** specializing in **application secu
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; align-items: center; gap: 10px; justify-content: center;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamadrezadarban&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezadarban&theme=tokyonight&hide_border=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+</p>
 
 ---
+
 
 ## 🏆 GitHub Achievements
 
