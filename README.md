@@ -125,12 +125,12 @@ I'm a passionate **cybersecurity researcher** specializing in **application secu
 
 ```ascii
 
-┌─ Application Security ─────────────────┐    ┌─ OSINT & Intelligence ────────────┐     ┌─ Network Security ────────────────┐
-│  • Web Application Penetration Testing │    │  • Digital Footprinting           │     │  • Network Reconnaissance         │
-│  • API Security Assessment             │    │  • Social Engineering Research    │     │  • Infrastructure Mapping         │
-│  • Mobile Application Security         │    │  • Threat Intelligence            │     │  • BGP/ASN Intelligence           │
-│  • Source Code Analysis                │    │  • Asset Discovery                │     │  • Subdomain Enumeration          │
-└────────────────────────────────────────┘    └───────────────────────────────────┘     └───────────────────────────────────┘
+┌─ Application Security ─────────────────┐   ┌─ OSINT & Intelligence ────────────┐    ┌─ Network Security ────────────────┐
+│  • Web Application Penetration Testing │   │  • Digital Footprinting           │    │  • Network Reconnaissance         │
+│  • API Security Assessment             │   │  • Social Engineering Research    │    │  • Infrastructure Mapping         │
+│  • Mobile Application Security         │   │  • Threat Intelligence            │    │  • BGP/ASN Intelligence           │
+│  • Source Code Analysis                │   │  • Asset Discovery                │    │  • Subdomain Enumeration          │
+└────────────────────────────────────────┘   └───────────────────────────────────┘    └───────────────────────────────────┘
 
 ```
 
