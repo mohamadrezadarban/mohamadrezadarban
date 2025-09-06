@@ -1,65 +1,187 @@
 # 👋 Hi, I'm **Mohamadreza Darban**
+**Security Researcher · Bug Bounty Hunter · OSINT Specialist**
 
-**Security Researcher · Bug Bounty · OSINT**  
-Tehran · Always learning, breaking, and fixing.
+📍 Tehran, Iran · 🔍 Always learning, breaking, and fixing
 
 ---
 
 ## 💫 About Me
-I’m focused on **application security**, **network reconnaissance**, and **automation**. I like turning repeatable security workflows into scripts and tools — and sharing them here so others can learn faster.
 
-- Interests: Recon, wordlists, ASN/IP intelligence, CORS testing, favicon hashing, subdomain hunting
-- Currently exploring: automation around **BGP/ASN**, **shodan-like lookups**, and **Python-first recon pipelines**
+I'm a passionate **cybersecurity researcher** specializing in **application security**, **network reconnaissance**, and **security automation**. I believe in turning complex security workflows into efficient, reusable tools that help the community learn and grow faster.
 
-Let’s connect and collaborate on interesting security problems.
+### 🎯 What I Do:
+- **Bug Bounty Hunting**: Finding vulnerabilities in web applications and mobile apps
+- **OSINT Research**: Gathering intelligence through open-source methodologies  
+- **Security Tool Development**: Creating Python and Bash scripts for automation
+- **Network Analysis**: Deep diving into ASN/BGP data and network reconnaissance
+- **Community Contribution**: Sharing knowledge through open-source projects
+
+### 🔬 Current Focus Areas:
+- **Reconnaissance Automation**: Building Python-first recon pipelines
+- **ASN/BGP Intelligence**: Exploring network infrastructure mapping
+- **Shodan-like Lookups**: Developing custom search and discovery tools
+- **Subdomain Enumeration**: Advanced techniques for asset discovery
+- **CORS Security**: Testing and exploitation methodologies
 
 ---
 
-## 🌐 Socials
-<!-- Replace links below with your actual links if needed -->
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamadrezadarban.com)
+## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamadrezadarban.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unname_1x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamadrezadarban)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
+
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Security & Networking
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+
+### Infrastructure & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧰 Featured Projects
-- **Favicon-Hash-Finder** — generate MurmurHash3 of a site’s favicon and build a ready **Shodan** query  
-  `Python` · [Repo](https://github.com/mohamadrezadarban/Favicon-Hash-Finder)
-- **GET_ASN** — get ASN info for a list of IPs via **BGPView API**  
-  `Bash` · [Repo](https://github.com/mohamadrezadarban/GET_ASN)
-- **Encoding-And-Decoding** — handy multi‑format encoder/decoder  
-  `Python` · [Repo](https://github.com/mohamadrezadarban/Encoding-And-Decoding)
-- **CORS-Payload-Sender** — quick CORS test helper  
-  `Python` · [Repo](https://github.com/mohamadrezadarban/CORS-Payload-Sender)
-- **crt** — tiny helper to pull subdomains from crt.sh  
-  `Shell` · [Repo](https://github.com/mohamadrezadarban/crt)
+## 🧰 Featured Security Projects
+
+### 🔍 **Reconnaissance & Intelligence**
+- **[Favicon-Hash-Finder](https://github.com/mohamadrezadarban/Favicon-Hash-Finder)** — Generate MurmurHash3 of favicons and build Shodan queries
+  - `Python` · `Shodan API` · `Web Reconnaissance`
+  
+- **[GET_ASN](https://github.com/mohamadrezadarban/GET_ASN)** — Bulk ASN information gathering via BGPView API
+  - `Bash` · `BGP Analysis` · `Network Intelligence`
+  
+- **[crt](https://github.com/mohamadrezadarban/crt)** — Fast subdomain enumeration using crt.sh certificate transparency
+  - `Shell Script` · `Certificate Transparency` · `Asset Discovery`
+
+### 🛡️ **Security Testing Tools**
+- **[CORS-Payload-Sender](https://github.com/mohamadrezadarban/CORS-Payload-Sender)** — Automated CORS misconfiguration testing
+  - `Python` · `Web Security` · `Vulnerability Testing`
+  
+- **[Encoding-And-Decoding](https://github.com/mohamadrezadarban/Encoding-And-Decoding)** — Multi-format encoder/decoder for security testing
+  - `Python` · `Cryptography` · `Data Manipulation`
+
+### 🚀 **Coming Soon**
+- **SubRecon Pro** — Advanced subdomain enumeration with machine learning
+- **ASN-Hunter** — Comprehensive ASN reconnaissance toolkit  
+- **API-Fuzzer** — Intelligent API endpoint discovery and testing
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 GitHub Analytics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezadarban&theme=dark&hide_border=false)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezadarban&theme=tokyonight&hide_border=true)
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohamadrezadarban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohamadrezadarban&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Inspired by GPRM templates; customized for security tooling -->
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohamadrezadarban&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamadrezadarban&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🎯 Security Interests & Expertise
+
+```ascii
+┌─ Application Security ─────────────────────────┐
+│  • Web Application Penetration Testing         │
+│  • API Security Assessment                     │
+│  • Mobile Application Security                 │
+│  • Source Code Analysis                        │
+└─────────────────────────────────────────────────┘
+
+┌─ Network Security ─────────────────────────────┐
+│  • Network Reconnaissance                      │
+│  • Infrastructure Mapping                      │
+│  • BGP/ASN Intelligence                        │
+│  • Subdomain Enumeration                       │
+└─────────────────────────────────────────────────┘
+
+┌─ OSINT & Intelligence ─────────────────────────┐
+│  • Digital Footprinting                        │
+│  • Social Engineering Research                 │
+│  • Threat Intelligence                         │
+│  • Asset Discovery                             │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## 📚 Learning & Development
+
+- 🔬 **Currently Studying**: Advanced malware analysis and reverse engineering
+- 📖 **Reading**: "Web Application Hacker's Handbook" and latest OWASP guidelines
+- 🎓 **Certifications**: Working towards OSCP and CEH
+- 🌱 **Growing Skills**: Machine learning for security, threat hunting
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in collaborating on:
+- **Open Source Security Tools** — Building tools that help the community
+- **Research Projects** — Exploring new attack vectors and defense mechanisms  
+- **Bug Bounty Programs** — Team hunts and knowledge sharing
+- **CTF Competitions** — Solving challenges and learning together
+
+**Feel free to reach out if you want to discuss security, share ideas, or collaborate on projects!**
+
+---
+
+<div align="center">
+
+### 👥 **Profile Views**
+![Visitor Count](https://visitcount.itsvg.in/api?id=mohamadrezadarban&icon=2&color=6)
+
+### ⭐ **If you find my work helpful, consider giving it a star!**
+
+**"Security is not a product, but a process" - Bruce Schneier**
+
+</div>
+
+---
+
+<div align="center">
+  <i>Last updated: September 2025</i>
+</div>
