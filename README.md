@@ -91,11 +91,7 @@ I'm a passionate **cybersecurity researcher** specializing in **application secu
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    justify-content: center; ">
+<div align="center" style="display: flex; align-items: center; gap: 10px; justify-content: center;">
 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
