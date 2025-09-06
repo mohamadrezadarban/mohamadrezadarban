@@ -161,8 +161,6 @@ I'm always interested in collaborating on:
 
 <div align="center">
 
-### 👥 **Profile Views**
-![Visitor Count](https://visitcount.itsvg.in/api?id=mohamadrezadarban&icon=2&color=6)
 
 ### ⭐ **If you find my work helpful, consider giving it a star!**
 
