@@ -93,14 +93,14 @@ I'm a passionate **cybersecurity researcher** specializing in **application secu
 
 <div align="center" style="display: flex; align-items: center; gap: 10px; justify-content: center;">
 
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezadarban&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamadrezadarban&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+
 
 ---
 
