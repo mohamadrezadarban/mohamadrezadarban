@@ -92,15 +92,13 @@ I'm a passionate **cybersecurity researcher** specializing in **application secu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamadrezadarban&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadrezadarban&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamadrezadarban&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrezadarban&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 ---
+
 
 
 ## 🏆 GitHub Achievements
