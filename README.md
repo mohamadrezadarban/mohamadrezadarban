@@ -27,10 +27,20 @@ I'm a passionate **cybersecurity researcher** specializing in **application secu
 
 ## 🌐 Connect With Me
 
+<p>
+  <a href="mailto:mohamadreza-darban@onionmail.com">
+    <img src="https://img.shields.io/badge/OnionMail-8B3FFD?style=for-the-badge&logo=torproject&logoColor=white" alt="OnionMail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohamadrezadarban@keemail.com">
+    <img src="https://img.shields.io/badge/Tutanota-EA4335?style=for-the-badge&logo=tutanota&logoColor=white" alt="Tutanota" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohamadrezadarban@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadrezadarban@proton.me)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadrezadarban@keemail.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamadreza-darban@onionmail.com)
 
 ---
 
